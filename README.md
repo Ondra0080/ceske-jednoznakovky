@@ -2,6 +2,24 @@
 
 JSX skript pro Adobe Illustrator 2026 na macOS. Opravuje české jednoznakové předložky a spojky nahrazením běžné mezery nezlomitelnou. Spouští se z nabídky Skripty a nabízí jednoduchý český dialog.
 
+## Ukázky
+
+Výběr textového objektu a dialog pro nastavení rozsahu opravy:
+
+![Vybraný textový objekt a dialog skriptu](assets/01.png)
+
+Textový objekt v Illustratoru:
+
+![Vybraný textový objekt v Illustratoru](assets/02.png)
+
+Souhrn po provedení oprav:
+
+![Souhrnný dialog s počtem opravených mezer](assets/03.png)
+
+Při opravě celého dokumentu lze samostatně zahrnout zamčené texty:
+
+![Dialog pro celý dokument se zapnutou volbou Zamčené texty](assets/04.png)
+
 ## Funkce
 
 - Opravuje slova `k, s, v, z, o, u, a, i` včetně velkých písmen.
