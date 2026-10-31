@@ -8,7 +8,7 @@ Výběr textového objektu a dialog pro nastavení rozsahu opravy:
 
 ![Vybraný textový objekt a dialog skriptu](assets/01.png)
 
-Textový objekt v Illustratoru:
+Textový objekt v Illustratoru po úpravě:
 
 ![Vybraný textový objekt v Illustratoru](assets/02.png)
 
