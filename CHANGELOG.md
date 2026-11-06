@@ -1,5 +1,11 @@
 # Změny
 
+## 1.1.1 — 2026-11-06
+
+- Nástroj se nyní jmenuje České jednoznakovky v dialogu i dokumentaci.
+- Distribuční soubor se jmenuje `Ceske_jednoznakovky.jsx`.
+- Pravidla pro opravu textu a volby dialogu zůstávají stejné jako ve verzi 1.1.0.
+
 ## 1.1.0 — 2026-10-31
 
 - První veřejné vydání skriptu pro Adobe Illustrator 2026 na macOS.

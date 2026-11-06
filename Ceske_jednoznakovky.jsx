@@ -1,12 +1,12 @@
 #target illustrator
 
-/* Czech Typography for Illustrator 1.1.0 */
+/* Czech One-Letter Words for Illustrator 1.1.1 */
 (function () {
-    var VERSION = "1.1.0";
+    var VERSION = "1.1.1";
     var NON_BREAKING_SPACE = "\u00A0";
     var LETTERS = "ksvzouaiKSVZOUAI";
     var ui = {
-        title: "Česká typografie pro Illustrator",
+        title: "České jednoznakovky",
         scope: "Rozsah opravy",
         selected: "Vybrané textové objekty",
         document: "Celý dokument",

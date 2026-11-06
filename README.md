@@ -1,8 +1,10 @@
-# Česká typografie pro Illustrator
+# České jednoznakovky
 
 JSX skript pro Adobe Illustrator 2026 na macOS. Opravuje české jednoznakové předložky a spojky nahrazením běžné mezery nezlomitelnou. Spouští se z nabídky Skripty a nabízí jednoduchý český dialog.
 
 ## Ukázky
+
+Snímky zachycují verzi 1.1.0 s původním názvem dialogu. Ovládání a pravidla opravy jsou ve verzi 1.1.1 stejná.
 
 Výběr textového objektu a dialog pro nastavení rozsahu opravy:
 
@@ -34,10 +36,10 @@ Skript je určen pro Adobe Illustrator 2026 na macOS. Nevyžaduje další knihov
 
 1. Stáhněte a rozbalte balíček vydání.
 2. Otevřete dokument v Illustratoru.
-3. Zvolte **File > Scripts > Other Script…** (v českém rozhraní odpovídající položku **Soubor > Skripty > Jiný skript…**) a vyberte `Ceska_typografie_pro_Illustrator.jsx`.
+3. Zvolte **File > Scripts > Other Script…** (v českém rozhraní odpovídající položku **Soubor > Skripty > Jiný skript…**) a vyberte `Ceske_jednoznakovky.jsx`.
 4. Vyberte rozsah a případné volby pro zamčené či skryté texty. Klikněte na **Opravit**.
 
-Pokud Illustrator zobrazí varování o externím skriptu, potvrďte spuštění pouze u souboru z tohoto balíčku. Pro trvalé zařazení do nabídky Skripty lze JSX zkopírovat do složky `Scripting` v instalaci Illustratoru; po přidání souboru během běhu aplikace Illustrator restartujte.
+Pokud Illustrator zobrazí varování o externím skriptu, potvrďte spuštění pouze u souboru z tohoto balíčku. Pro trvalé zařazení do nabídky Skripty lze JSX na české instalaci Illustratoru 2026 pro macOS zkopírovat do `/Applications/Adobe Illustrator 2026/Presets.localized/cs_CZ/Skripty/`. Po přidání souboru během běhu aplikace Illustrator restartujte. U jiné jazykové verze se cesta může lišit.
 
 ## Rozsah opravy
 

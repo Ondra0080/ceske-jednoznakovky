@@ -1,9 +1,9 @@
-# Praktický test verze 1.1.0 v Illustratoru 2026
+# Praktický test verze 1.1.1 v Illustratoru 2026
 
 Testujte na novém dokumentu nebo kopii existujícího souboru. Scénáře níže slouží ke kontrole chování po instalaci nebo při dalších úpravách skriptu.
 
 1. Vytvořte texty `A doma` (běžný), `K práci` (zamčený textový objekt), `V lese` (skrytý textový objekt) a `S vámi` (textový objekt současně zamčený a skrytý). Dále vytvořte `O domě` ve skryté nebo zamčené skupině a `U vás` ve skryté nebo zamčené vrstvě. Poznamenejte původní zámky a viditelnost.
-2. Spusťte JSX přes **File > Scripts > Other Script…**. Při volbě **Vybrané textové objekty** mají být přepínače **Zamčené texty** a **Skryté texty** nedostupné. Po volbě **Celý dokument** mají být dostupné a vypnuté. Žádné další přepínače pro skupiny nebo vrstvy se nemají zobrazit.
+2. Spusťte `Ceske_jednoznakovky.jsx` přes **File > Scripts > Other Script…**. Titulek dialogu musí být **České jednoznakovky — 1.1.1**. Při volbě **Vybrané textové objekty** mají být přepínače **Zamčené texty** a **Skryté texty** nedostupné. Po volbě **Celý dokument** mají být dostupné a vypnuté. Žádné další přepínače pro skupiny nebo vrstvy se nemají zobrazit.
 3. Nechte oba přepínače vypnuté a klikněte na **Opravit**. Očekává se **1 oprava** v `A doma`.
 4. Znovu spusťte skript a zapněte pouze **Zamčené texty**. Očekává se **1 oprava** v `K práci`.
 5. Zapněte pouze **Skryté texty**. Očekává se **1 oprava** v `V lese`.
